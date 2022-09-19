@@ -18,6 +18,14 @@
 - 💬 Ask me about **PyTorch, Tensorflow and Images !**
 
 - 📫 How to reach me **pour.pourya1999@gmail.com**
+<br>
+<h3 align="left">Some of My Awesome Projects</h3>
+<li>Mechanical Shovels Bucket Monitoring System based on Computer Vision</li>
+<li>Profitable Automatic Trading Bot(Expert Advisor) for Forex Market</li>
+<li>Driving License Management System</li>
+<li>Road accident information collection and analysis system</li>
+<li>Cloud-based Data Augmentation and AI-based Annotating Assistant (under develop)</li>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pr_1266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pr_1266" height="30" width="40" /></a>

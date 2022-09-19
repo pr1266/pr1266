@@ -3,6 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr1266&label=Profile%20views&color=0e75b6&style=flat" alt="pr1266" /> </p>
 
+- 🔭 I’m currently working on **Digital Image Processing**
+
+- 🌱 I’m currently learning **Deep Reinforcement Learning**
+
+- 👯 I’m looking to collaborate on **Industry V4.0 Projects**
+
+- 💬 Ask me about **PyTorch, Tensorflow and Images !**
+
+- 📫 How to reach me **pour.pourya1999@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pr_1266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pr_1266" height="30" width="40" /></a>

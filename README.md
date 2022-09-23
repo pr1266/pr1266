@@ -25,6 +25,7 @@
 <li>Driving License Management System</li>
 <li>Road accident information collection and analysis system</li>
 <li>Cloud-based Data Augmentation and AI-based Annotating Assistant (under develop)</li>
+<li>Deep Q Learning Trading Agent for Financial Markets(under develop)</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

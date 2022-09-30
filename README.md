@@ -24,8 +24,10 @@
 <li>Profitable Automatic Trading Bot(Expert Advisor) for Forex Market</li>
 <li>Driving License Management System</li>
 <li>Road accident information collection and analysis system</li>
+<li>The "Margin-Call Proof" PRisk Manager for financial markets</li>
 <li>Cloud-based Data Augmentation and AI-based Annotating Assistant (under develop)</li>
 <li>Deep Q Learning Trading Agent for Financial Markets(under develop)</li>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

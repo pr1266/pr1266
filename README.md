@@ -27,7 +27,7 @@
 <li>The "Margin-Call Proof" PRisk Manager for financial markets</li>
 <li>Cloud-based Data Augmentation and AI-based Annotating Assistant (under develop)</li>
 <li>Deep Q Learning Trading Agent for Financial Markets(under develop)</li>
-
+<br>
 <h3 align="left">Experiences</h3>
 <li>Python : 5 Years</li>
 <li>Django : 4 Years</li>

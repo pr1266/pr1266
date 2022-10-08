@@ -28,6 +28,14 @@
 <li>Cloud-based Data Augmentation and AI-based Annotating Assistant (under develop)</li>
 <li>Deep Q Learning Trading Agent for Financial Markets(under develop)</li>
 
+<h3 align="left">Experiences</h3>
+<li>Python : 5 Years</li>
+<li>Django : 4 Years</li>
+<li>Tensorflow : 4 Years</li>
+<li>OpenCV : 4 Years</li>
+<li>PyTorch : 2 Years</li>
+<li>Matlab : 2 Years</li>
+<li>MQL : 2 Years</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

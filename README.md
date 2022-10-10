@@ -39,7 +39,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/pr1266" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" alt="pr_1266" height="30" width="40" /></a>
+<a href="https://t.me/pr1266" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="pr_1266" height="30" width="40" /></a>
 <a href="https://twitter.com/pr_1266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pr_1266" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pr1266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pr1266" height="30" width="40" /></a>
 <a href="https://instagram.com/pr.1266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pr.1266" height="30" width="40" /></a>

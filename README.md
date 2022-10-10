@@ -20,11 +20,11 @@
 - 📫 How to reach me **pour.pourya1999@gmail.com**
 <br>
 <h3 align="left">Some of My Awesome Projects</h3>
-<li>Mechanical Shovels Bucket Monitoring System based on Computer Vision</li>
+<li>Mechanical Shovels Bucket Monitoring System based on Computer Vision (Industry V4.0)</li>
 <li>Profitable Automatic Trading Bot(Expert Advisor) for Forex Market</li>
+<li>The "Margin-Call Proof" PRisk Manager for financial markets</li>
 <li>Driving License Management System</li>
 <li>Road accident information collection and analysis system</li>
-<li>The "Margin-Call Proof" PRisk Manager for financial markets</li>
 <li>Cloud-based Data Augmentation and AI-based Annotating Assistant (under develop)</li>
 <li>Deep Q Learning Trading Agent for Financial Markets(under develop)</li>
 <br>

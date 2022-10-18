@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Digital Image Processing**
 
-- 🌱 I’m currently learning **Deep Reinforcement Learning**
+- 🌱 I’m currently learning **Medical Image Processing**
 
 - 👯 I’m looking to collaborate on **Industry V4.0 Projects**
 

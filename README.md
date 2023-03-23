@@ -9,7 +9,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr1266&label=Profile%20views&color=0e75b6&style=flat" alt="pr1266" /> </p>
 
-- 🔭 I’m currently working on **Digital Image Processing**
+- 🔭 I’m currently working on **Algorithmic Trading and Digital Image Processing**
 
 - 🌱 I’m currently learning **Medical Image Processing**
 

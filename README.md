@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, It's Pourya</h1>
-<h3 align="left">A passionate Programmer from Iran who loves Image Processing, Computer Vision, Deep Learning and Software Development</h3>
+<h3 align="left">A passionate Programmer from Iran who loves Algorithmic Trading, Image Processing, Computer Vision, Deep Learning and Software Development</h3>
 <br>
 
 <br>
@@ -11,15 +11,16 @@
 
 - 🔭 I’m currently working on **Algorithmic Trading and Digital Image Processing**
 
-- 🌱 I’m currently learning **Medical Image Processing**
+- 🌱 I’m currently learning **Expert Advisor and Indicator Development**
 
-- 👯 I’m looking to collaborate on **Industry V4.0 Projects**
+- 👯 I’m looking to collaborate on **Industry V4.0 and Quantitative Trading Projects**
 
-- 💬 Ask me about **PyTorch, Tensorflow and Images !**
+- 💬 Ask me about **MQL, PyTorch, Tensorflow and Images !**
 
 - 📫 How to reach me **pour.pourya1999@gmail.com**
 <br>
 <h3 align="left">Some of My Awesome Projects</h3>
+<li>Project Bankai, Multi Time Frame ICT-based Automatic Trading Agent</li>
 <li>Mechanical Shovels Bucket Monitoring System based on Computer Vision (Industry V4.0)</li>
 <li>Profitable Automatic Trading Bot(Expert Advisor) for Forex Market</li>
 <li>The "Margin-Call Proof" PRisk Manager for financial markets</li>

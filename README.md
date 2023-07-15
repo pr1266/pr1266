@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, It's Pourya</h1>
-<h3 align="left">A passionate Programmer from Iran who loves Algorithmic Trading, Image Processing, Computer Vision, Deep Learning and Software Development</h3>
+<h3 align="left">Proud Founder of NJFC, Algoritmic and Quantitative Trading Developer</h3>
 <br>
 
 <br>
@@ -9,39 +9,28 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr1266&label=Profile%20views&color=0e75b6&style=flat" alt="pr1266" /> </p>
 
-- 🔭 I’m currently working on **Algorithmic Trading and Digital Image Processing**
-
-- 🌱 I’m currently learning **Expert Advisor and Indicator Development**
-
-- 👯 I’m looking to collaborate on **Industry V4.0 and Quantitative Trading Projects**
-
-- 💬 Ask me about **MQL, PyTorch, Tensorflow and Images !**
-
-- 📫 How to reach me **pour.pourya1999@gmail.com**
 <br>
 <h3 align="left">Some of My Awesome Projects</h3>
-<li>Project Bankai, Multi Time Frame ICT-based Automatic Trading Agent</li>
+<li>Project Bankai, Multi Time Frame LiquidityFlow-based Automatic Trading Agent</li>
 <li>Mechanical Shovels Bucket Monitoring System based on Computer Vision (Industry V4.0)</li>
 <li>Profitable Automatic Trading Bot(Expert Advisor) for Forex Market</li>
 <li>The "Margin-Call Proof" PRisk Manager for financial markets</li>
 <li>Driving License Management System</li>
 <li>Road accident information collection and analysis system</li>
 <li>Cloud-based Data Augmentation and AI-based Annotating Assistant (under develop)</li>
-<li>Deep Q Learning Trading Agent for Financial Markets(under develop)</li>
 <br>
 <h3 align="left">Experiences</h3>
 <li>Python : 5 Years</li>
 <li>Django : 4 Years</li>
+<li>MQL : 4 Years</li>
 <li>Tensorflow : 4 Years</li>
 <li>OpenCV : 4 Years</li>
 <li>PyTorch : 2 Years</li>
 <li>Matlab : 2 Years</li>
-<li>MQL : 2 Years</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/pr1266" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="pr_1266" height="30" width="40" /></a>
-<a href="https://twitter.com/pr_1266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pr_1266" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pr1266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pr1266" height="30" width="40" /></a>
 <a href="https://instagram.com/pr.1266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pr.1266" height="30" width="40" /></a>
 </p>

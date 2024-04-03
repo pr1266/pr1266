@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, It's Pourya</h1>
-<h3 align="left">Proud Founder of NJFC, Algorithmic and Quantitative Trading Developer</h3>
+<h3 align="left">Proud Founder of NJFC, Sr. Algorithmic and Quantitative Trading Developer, AI Engineer</h3>
 <br>
 
 <br>

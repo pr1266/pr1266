@@ -4,15 +4,15 @@
 
 <br>
 <div align='center'>
-<p><img align="center" src="https://github.com/pr1266/pr1266/blob/main/ezgif.com-gif-maker.gif" alt="pr1266" /></p>
-</div>
-<br>
-<br>
-<div align='center'>
 <p><img align="center" src="https://github.com/pr1266/pr1266/blob/main/state.png" alt="pr1266" /></p>
 </div>
 <br>
 
+<br>
+<div align='center'>
+<p><img align="center" src="https://github.com/pr1266/pr1266/blob/main/ezgif.com-gif-maker.gif" alt="pr1266" /></p>
+</div>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr1266&label=Profile%20views&color=0e75b6&style=flat" alt="pr1266" /> </p>
 
 <br>
@@ -26,12 +26,12 @@
 <li>Cloud-based Data Augmentation and AI-based Annotating Assistant (under develop)</li>
 <br>
 <h3 align="left">Experiences</h3>
-<li>Python : 5 Years</li>
-<li>Django : 4 Years</li>
-<li>MQL : 4 Years</li>
-<li>Tensorflow : 4 Years</li>
+<li>Python : 6 Years</li>
+<li>Django : 5 Years</li>
+<li>MQL : 5 Years</li>
+<li>Tensorflow : 5 Years</li>
 <li>OpenCV : 4 Years</li>
-<li>PyTorch : 2 Years</li>
+<li>PyTorch : 3 Years</li>
 <li>Matlab : 2 Years</li>
 
 <h3 align="left">Connect with me:</h3>

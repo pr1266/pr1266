@@ -7,6 +7,12 @@
 <p><img align="center" src="https://github.com/pr1266/pr1266/blob/main/ezgif.com-gif-maker.gif" alt="pr1266" /></p>
 </div>
 <br>
+<br>
+<div align='center'>
+<p><img align="center" src="https://github.com/pr1266/pr1266/blob/main/state.png" alt="pr1266" /></p>
+</div>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr1266&label=Profile%20views&color=0e75b6&style=flat" alt="pr1266" /> </p>
 
 <br>
